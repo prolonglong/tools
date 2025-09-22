@@ -12,3 +12,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 
 Merge with no-ff.
+Git is free software.
